@@ -22,6 +22,7 @@ def is_valid_subsequence_while(array, sequence):
     arrIndex = 0 
     seqIndex = 0
     while(arrIndex < len(array) and seqIndex < len(sequence)):
+        #"لو أنا لسه جوه حدود القائمة، ساعتها فقط شوفلي العنصر يساوي كذا ولا لا".
         if(array[arrIndex] == sequence[seqIndex]):
             seqIndex = seqIndex + 1
         arrIndex = arrIndex + 1
@@ -31,6 +32,7 @@ def is_valid_subsequence_while(array, sequence):
 def is_valid_subsequence_for(array,sequence):
     seqIndex=0
     for value in array:
+        #"لو أنا لسه جوه حدود القائمة، ساعتها فقط شوفلي العنصر يساوي كذا ولا لا".
        if (seqIndex < len(sequence) and value == sequence[seqIndex]):
             seqIndex += 1
     return seqIndex == len(sequence)
