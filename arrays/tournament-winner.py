@@ -22,7 +22,7 @@
 
 def tournament_winner(competitions, results):
     current_best_team = ""
-    scores ={current_best_team: 0}
+    scores ={}
 
     for idx, game in enumerate(competitions):
         result = results[idx]
@@ -31,7 +31,7 @@ def tournament_winner(competitions, results):
         winning_team = home_team if result == 1 else away_team
         updateScores(scores, winning_team, 3)
 
-        if scores[winning_team] > scores[current_best_team]:
+        if current_best_team == "" or scores[winning_team] > scores[current_best_team]:
             current_best_team = winning_team
 
     return current_best_team
