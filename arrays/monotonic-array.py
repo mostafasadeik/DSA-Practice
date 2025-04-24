@@ -22,7 +22,6 @@ def isMonotonic(array):
             decreasing = False
         elif array[i] < array[i - 1]:
             increasing = False
-
     return increasing or decreasing
 
 
