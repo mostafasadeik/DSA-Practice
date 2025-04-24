@@ -19,11 +19,10 @@
 # 6. Check if the winning team's score is greater than the current best score.
 # 7. If it is, update the current best team and its score.
 # 8. After iterating through all competitions, return the name of the current best team.
-
+# The function updateScores is a helper function that updates the score of a team in the scores dictionary.
 def tournament_winner(competitions, results):
     current_best_team = ""
     scores ={}
-
     for idx, game in enumerate(competitions):
         result = results[idx]
         home_team, away_team = game
