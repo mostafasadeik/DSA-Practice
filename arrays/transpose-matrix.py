@@ -11,7 +11,7 @@
 # 4. Iterate through the rows of the original matrix and append the corresponding element to the new row.
 # 5. Append the new row to the transposed matrix.
 # 6. Return the transposed matrix.
-# Approach:
+
 
 def transposeMatrix(matrix):
   transposedMatrix = []
