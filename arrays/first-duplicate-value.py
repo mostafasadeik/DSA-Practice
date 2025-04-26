@@ -18,5 +18,5 @@ def firstDuplicateValue(array):
         array[absValue - 1] *= -1
     return -1
 
-result = firstDuplicateValue([2, 1, 5, 2, 3, 2])
+result = firstDuplicateValue([2, 9, 4,9, 2, 4, 4])
 print(result)  # Output: 3
