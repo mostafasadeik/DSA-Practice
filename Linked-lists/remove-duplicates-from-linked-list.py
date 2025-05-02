@@ -1,5 +1,5 @@
-# Linked Lists ( Remove duplicates from linked list )
-# Given a linked list, remove the duplicates from the linked list.  
+# Linkedlists ( Remove duplicates from linked list )
+# Given a linkedlist, remove the duplicates from the linked list.  
 # For example, given the linked list 1 -> 2 -> 3 -> 3 -> 4 -> 4 -> 5,
 # the function should return 1 -> 2 -> 3 -> 4 -> 5.
 
