@@ -1,6 +1,9 @@
 # Stacks (Best Digits)
 # Write a function that takes in a number as a string and returns the best digits of that number.
 
+
+# The best digits of a number are the digits that can be obtained by removing a certain number of digits from the number
+
 def bestDigits(number,numDigits):
     stack = []
 
