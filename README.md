@@ -1,6 +1,6 @@
 # DSA-Practice
 
-# Arrays
+## Arrays
 
 # Linked Lists
 
