@@ -1,47 +1,47 @@
 # DSA-Practice
 
-# Arrays
+## Arrays
 
-# Linked Lists
+## Linked Lists
 
-# Stacks
+## Stacks
 
-# Strings
+## Strings
 
-# Recursion
+## Recursion
 
-# Searching
+## Searching
 
-# Sorting
+## Sorting
 
-# Binary Search Trees (BST)
+## Binary Search Trees (BST)
 
-# Heaps
+## Heaps
 
-# Binary Trees
+## Binary Trees
 
-# Tries
+## Tries
 
-# Graphs
+## Graphs
 
-# Dynamic Programming (DP)
+## Dynamic Programming (DP)
 
-# Greedy Algorithms
+## Greedy Algorithms
 
-# Famous Algorithms
+## Famous Algorithms
 
-# Backtracking
+## Backtracking
 
-# DP on Strings
+## DP on Strings
 
-# Greedy Algorithms & Heaps
+## Greedy Algorithms & Heaps
 
-# DP on Trees
+## DP on Trees
 
-# Combination of All Topics
+## Combination of All Topics
 
-# Advanced Graph Problems
+## Advanced Graph Problems
 
-# Mock Interviews
+## Mock Interviews
 
-# Final Review
+## Final Review
