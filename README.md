@@ -6,9 +6,9 @@
 
 ## Stacks
 
-## Strings
-
 ## Recursion
+
+## Strings
 
 ## Searching
 
