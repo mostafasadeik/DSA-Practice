@@ -94,29 +94,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-## Tracking Progress
-
-Feel free to create subfolders like:
-
-```
-Arrays/
-LinkedLists/
-Strings/
-Trees/
-Graphs/
-DynamicProgramming/
-```
-
-Each folder can contain:
-
-- Problem name
-- Approach explanation
-- Code implementation
-- Time & Space complexity
-- Lessons learned
-
----
-
 ## Final Note
 
 This journey is about **mastery**, not speed.
