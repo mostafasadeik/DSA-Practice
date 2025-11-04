@@ -34,6 +34,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 - Searching Algorithms (Linear, Binary Search)
 - Sorting Algorithms (Selection, Merge, Quick Sort, etc.)
+- Recursion
 
 **Focus:** Recognize when binary search applies, and understand complexity trade-offs.
 
@@ -43,7 +44,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Recursion
 - Trees
 - Binary Trees
 - Binary Search Trees (BST)
