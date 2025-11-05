@@ -31,8 +31,46 @@ def smallest_difference(arr1, arr2):
     
     return result 
 
+
+
+def smallestDiffernece(arrayOne, arrayTwo):
+    if not arrayOne or not arrayTwo:
+        return []
+    arrayOne.sort()
+    arrayTwo.sort()
+    
+    idx1 = 0
+    idx2 = 0
+    smallest = float('inf')
+    result = []
+
+    while idx1 < len(arrayOne) and idx2 < len(arrayTwo):
+        a = arrayOne[idx1]
+        b = arrayTwo[idx2]
+
+        current = abs(a - b)
+        if current == 0:
+            result = [a, b]
+            return result
+        
+        if current < smallest:
+            smallest = current
+            result = [a, b]
+
+        if a < b:
+            idx1 += 1
+        else:
+            idx2 += 1
+            
+    return result
+
+
+
+
+
 # Example usage
-arr1 = [-1,5,10,20,28,3]      
-arr2 = [26,134,135,15,17]
-result = smallest_difference(arr1, arr2)
-print(result)  # Output: [5, 10]
+# arrayOne = [-1,5,10,20,28,3]      
+# arr2 = [26,134,135,15,17]
+# result = smallest_difference(arr1, arr2)
+# print(result)  # Output: [5, 10]
+
