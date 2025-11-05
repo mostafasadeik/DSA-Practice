@@ -21,7 +21,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 - Arrays
 - Linked Lists
-- Stacks
+- Strings
 
 **Focus:** Learn how to iterate, manipulate data, and use two-pointers, hashing, and stack logic.
 
@@ -31,10 +31,10 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Strings
 - Searching Algorithms (Linear, Binary Search)
 - Sorting Algorithms (Selection, Merge, Quick Sort, etc.)
 - Recursion
+- Stacks
 
 **Focus:** Recognize when binary search applies, and understand complexity trade-offs.
 
