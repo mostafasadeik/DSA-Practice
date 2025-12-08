@@ -13,7 +13,7 @@ This repository tracks a consistent, structured journey through Data Structures 
 
 ## Monthly Learning Plan
 
-November — Arrays & Core Problem-Solving
+### **November — Arrays & Core Problem-Solving
 Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
