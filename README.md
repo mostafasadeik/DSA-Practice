@@ -24,7 +24,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **December — Searching & Sorting Patterns**
+### December — Linked Lists, Strings & Basic Algorithms
 
 **Topics:**
 
@@ -37,7 +37,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **January — Tree & Graph Foundations**
+### January — Recursion, Stacks & Tree Basics
 
 **Topics:**
 
@@ -49,7 +49,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **February — Optimization Thinking**
+### February — Binary Trees & Graph Foundations
 
 **Topics:**
 
@@ -61,7 +61,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **March — Optimization Thinking**
+### March — Dynamic Programming & Greedy Algorithms
 
 **Topics:**
 
@@ -73,7 +73,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **From April Until You Get the Job — Interview Training Phase**
+### April & Beyond — Advanced Topics & Interview Preparation
 
 **Topics:**
 
