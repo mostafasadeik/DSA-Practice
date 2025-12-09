@@ -55,6 +55,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 - Binary Search Trees (BST)
 - Graphs (BFS / DFS)
+- Recursion
 
 **Focus:** Learn to break down problems, recognize overlapping subproblems, and when greedy strategies work.
 
@@ -64,7 +65,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Recursion
 - Dynamic Programming
 - Greedy Algorithms
 - Famous / Classic Problems
