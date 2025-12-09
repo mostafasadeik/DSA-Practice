@@ -41,7 +41,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Recursion
 - Stacks
 - Trees
 
@@ -65,6 +64,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
+- Recursion
 - Dynamic Programming
 - Greedy Algorithms
 - Famous / Classic Problems
