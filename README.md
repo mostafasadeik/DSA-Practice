@@ -43,6 +43,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 - Stacks
 - Trees
+- Binary Trees
 
 **Focus:** Understand hierarchical & connected data. Learn traversal patterns.
 
@@ -52,7 +53,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Binary Trees
 - Binary Search Trees (BST)
 - Graphs (BFS / DFS)
 
