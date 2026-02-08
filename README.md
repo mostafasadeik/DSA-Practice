@@ -30,9 +30,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 **Topics:**
 
 - Linked Lists
-- Strings
-- Searching Algorithms (Linear, Binary Search)
-- Sorting Algorithms (Selection, Merge, Quick Sort, etc.)
 
 **Focus:** Recognize when binary search applies, and understand complexity trade-offs.
 
@@ -42,21 +39,17 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Recursion
-- Stacks
-- Trees
+- **Focus:** Understand hierarchical & connected data. Learn traversal patterns.
 
-**Focus:** Understand hierarchical & connected data. Learn traversal patterns.
-
----
+  ***
 
 ### **February — Optimization Thinking**
 
 **Topics:**
 
-- Binary Trees
-- Binary Search Trees (BST)
-- Graphs (BFS / DFS)
+- Searching Algorithms (Linear, Binary Search)
+- Sorting Algorithms (Selection, Merge, Quick Sort, etc.)
+- Recursion
 
 **Focus:** Learn to break down problems, recognize overlapping subproblems, and when greedy strategies work.
 
@@ -66,15 +59,34 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 **Topics:**
 
-- Dynamic Programming
-- Greedy Algorithms
-- Famous / Classic Problems
+- Strings
+- Stacks
+- Trees
+- Binary Trees
+- Binary Search Trees (BST)
 
 **Focus:** Learn to break down problems, recognize overlapping subproblems, and when greedy strategies work.
 
 ---
 
-### **From April Until You Get the Job — Interview Training Phase**
+### **April - **
+
+**Topics:**
+
+- Graphs (BFS / DFS)
+- Dynamic Programming
+- Greedy Algorithms
+- Famous / Classic Problems
+
+**Also:**
+
+- Mock Interviews
+- Systematic Review of Weak Topics
+- Timed Practice
+
+---
+
+### ** From May until getting a job **
 
 **Topics:**
 
@@ -86,14 +98,6 @@ Focus on building basic data structure understanding and problem-solving habits.
 - DP on Trees
 - Mixed Concept Problems
 - Advanced Graph Problems
-
-**Also:**
-
-- Mock Interviews
-- Systematic Review of Weak Topics
-- Timed Practice
-
----
 
 ## Recommended Weekly Routine
 
