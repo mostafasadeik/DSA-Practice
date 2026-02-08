@@ -13,7 +13,7 @@ This repository tracks a consistent, structured journey through Data Structures 
 
 ## Monthly Learning Plan
 
-### **November — Core Fundamentals**
+### November — Arrays & Core Problem-Solving
 
 Focus on building basic data structure understanding and problem-solving habits.
 
@@ -25,7 +25,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **December — Searching & Sorting Patterns**
+### December — Linked Lists, Strings & Basic Algorithms
 
 **Topics:**
 
@@ -35,7 +35,7 @@ Focus on building basic data structure understanding and problem-solving habits.
 
 ---
 
-### **January — Tree & Graph Foundations**
+### January — Recursion, Stacks & Tree Basics
 
 **Topics:**
 
